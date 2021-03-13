@@ -22,7 +22,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+int i = 0;
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
