@@ -5,7 +5,7 @@
  *      Author: s-oga
  */
 
-
+// module function
 void module_func(){
 	int i = 0;
 	i++;
